@@ -1,0 +1,70 @@
+{"name": "Sol",
+"angle": 0,
+"range": 0,
+"teams": ["SCA", "First Colonies"],
+"links": ["Alpha Centauri", "Tau Ceti", "Sirius"],
+"bodies": [
+  {"name": "Sol",
+    "type": "star",
+    "angle": 0,
+    "range": 0,
+    "bodies": [
+      {"name": "Mercury",
+        "type": "planet",
+        "range": 0.39,
+        "color": "#ca3"
+      },
+      {"name": "Venus",
+        "type": "planet"
+        "range": 0.72,
+        "color": "#ef9"
+      },
+      {"name": "Earth",
+        "type": "planet"
+        "range": 1,
+        "color": "#88c"
+      },
+      {"name": "Mars",
+        "type": "planet"
+        "range": 1.52,
+        "color": "#a61",
+        "bodies": [
+          {"name": "Phobos",
+            "type": "moon",
+            "
+          }
+        ]
+      },
+      {"name": "Ceres",
+        "type": "planet"
+        "range": 2.77,
+        "color": "#a98"
+      },
+      {"name": "Jupiter",
+        "type": "planet"
+        "range": 5.2,
+        "color": "#ba4"
+      },
+      {"name": "Saturn",
+        "type": "planet"
+        "range": 9.5,
+        "color": "#ab2"
+      },
+      {"name": "Uranus",
+        "type": "planet"
+        "range": 19.2,
+        "color": "#abf"
+      },
+      {"name": "Neptune",
+        "type": "planet"
+        "range": 30.1,
+        "color": "#88a"
+      },
+      {"name": "Pluto",
+        "type": "planet"
+        "range": 39.5,
+        "color": "#ffd"
+      },
+    ]
+  }
+]}
