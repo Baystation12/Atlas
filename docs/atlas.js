@@ -159,6 +159,8 @@ const Body = (name = 'body', radius = 0, angle = 0, color = COLOR_MOON_GREY, siz
   y: () => SCALE * radius * Math.sin(Math.PI * angle),
 })
 
+// The following is temporary data, to be replaced with the data/ dir.
+
 const COLOR_SCA = '#0af'
 const COLOR_GC = '#f03'
 const COLOR_CSL = '#092'

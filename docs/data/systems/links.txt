@@ -1,3 +1,5 @@
+// Left over from jsonification; use to determine include-based behavior instead.
+
   "links": [
     "sol, alpha centauri",
     "sol, tau ceti",
