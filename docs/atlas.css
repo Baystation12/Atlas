@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+#viewer {
+  position: absolute;
+  width: 80vw;
+  height: 100vh;
+}
+
+#detail {
+  position: absolute;
+  right: 0;
+  width: 20vw;
+  height: 100vh;
+  background-color:#333;
+}
